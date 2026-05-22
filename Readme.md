@@ -14,7 +14,7 @@ Below is the complete sequence of how the hardware (SIE), custom firmware, and h
 
 To test the bi-directional communication, a Python-based GUI application is included. It monitors real-time physical button states transmitted by the PIC18F47J53 and allows independent control over the onboard LEDs.
 
-![Host Application GUI Preview](docs/gui_preview.png)
+![Host Application GUI Preview](docs/gui_preview.PNG)
 
 ---
 
